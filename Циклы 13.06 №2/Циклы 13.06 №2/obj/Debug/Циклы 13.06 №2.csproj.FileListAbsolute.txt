@@ -1,0 +1,10 @@
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Cycles-13.06-2\Циклы 13.06 №2\Циклы 13.06 №2\bin\Debug\Циклы 13.06 №2.exe.config
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Cycles-13.06-2\Циклы 13.06 №2\Циклы 13.06 №2\bin\Debug\Циклы 13.06 №2.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Cycles-13.06-2\Циклы 13.06 №2\Циклы 13.06 №2\bin\Debug\Циклы 13.06 №2.pdb
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Cycles-13.06-2\Циклы 13.06 №2\Циклы 13.06 №2\obj\Debug\Циклы 13.06 №2.csprojAssemblyReference.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Cycles-13.06-2\Циклы 13.06 №2\Циклы 13.06 №2\obj\Debug\Циклы_13._06__2.Form1.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Cycles-13.06-2\Циклы 13.06 №2\Циклы 13.06 №2\obj\Debug\Циклы_13._06__2.Properties.Resources.resources
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Cycles-13.06-2\Циклы 13.06 №2\Циклы 13.06 №2\obj\Debug\Циклы 13.06 №2.csproj.GenerateResource.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Cycles-13.06-2\Циклы 13.06 №2\Циклы 13.06 №2\obj\Debug\Циклы 13.06 №2.csproj.CoreCompileInputs.cache
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Cycles-13.06-2\Циклы 13.06 №2\Циклы 13.06 №2\obj\Debug\Циклы 13.06 №2.exe
+C:\Users\vodya\OneDrive\Рабочий стол\дз\Cycles-13.06-2\Циклы 13.06 №2\Циклы 13.06 №2\obj\Debug\Циклы 13.06 №2.pdb
